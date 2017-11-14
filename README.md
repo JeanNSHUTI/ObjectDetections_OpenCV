@@ -11,7 +11,7 @@ This guide assumes that you already have python installed and working on your co
 
 ```https://www.python.org/downloads/```
 
-###Installing OpenCV
+##Installing OpenCV
 
 1.	Go here and find the OpenCV installation package (.whl) that suits your PC and python version best.
 	With python 3.6 installed and a x86 machine I chose the package "opencv_python-3.3.1-cp36-cp36m-win32.whl"
@@ -20,4 +20,4 @@ This guide assumes that you already have python installed and working on your co
 
 ```python –m pip install "python folder location + name_of_openCVfile.whl"```
 
-###Installing additional packages
+##Installing additional packages
