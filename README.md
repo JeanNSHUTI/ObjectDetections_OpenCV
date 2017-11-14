@@ -7,7 +7,9 @@ Using Canny Edge Detector and OpenCV for detecting objects.
 This is meant to be a simple guide on how to install OpenCV, numpy and all tools needed to experiment with 
 the Canny Edge Detector and identifiying objects in images and/or in video frames such as the video captured
 from a webcam device connected on your computer.
-This guide assumes that you already have python installed and working on your computer here: https://www.python.org/downloads/
+This guide assumes that you already have python installed and working on your computer here: 
+
+```https://www.python.org/downloads/```
 
 ###Installing OpenCV
 
@@ -18,4 +20,4 @@ This guide assumes that you already have python installed and working on your co
 
 >>> python –m pip install "python folder location + name_of_openCVfile.whl"
 
-#Installing additional packages
+###Installing additional packages
