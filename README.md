@@ -18,6 +18,6 @@ This guide assumes that you already have python installed and working on your co
 2.	Place this file into the source file where your python version is installed. (eg C:\Users\Dell\AppData\Local\Programs\Python\Python36-32)
 3.	Open the command line and type the following:
 
->>> python –m pip install "python folder location + name_of_openCVfile.whl"
+```python –m pip install "python folder location + name_of_openCVfile.whl"```
 
 ###Installing additional packages
