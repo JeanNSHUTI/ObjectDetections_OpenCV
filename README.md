@@ -39,7 +39,7 @@ Run the following commands to install numpy and matplotib:
 python -m pip install numpy
 ```
 
-*Python version 3.6 -> "python" does not not work, use "py"
+* Python version 3.6 -> "python" does not not work, use "py"
 
 ```
 python -m pip install matplotlib  #plotting library based on NumPy.
@@ -50,7 +50,7 @@ python -m pip install scipy  #SciPy is a scientific Python library, which supple
 ```
 
 ```
-python -m pip install scikit-image  #provides image processing routines for SciPy. Follow steps 1 - 3 for easy installation 
+python -m pip install scikit-image  #provides image processing routines for SciPy. Steps 1 - 3 -> installation 
 ```
 
 ```
@@ -67,3 +67,6 @@ python script_name.python
 ```
 
 You should find an original image of yourself and the canny-edge version:
+
+
+[![Canny Edge Detector](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/canny2.jpg](#features)
