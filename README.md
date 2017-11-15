@@ -69,4 +69,4 @@ python script_name.python
 You should find an original image of yourself and the canny-edge version:
 
 
-[![Canny Edge Detector](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/canny2.jpg](#features)
+[![Canny Edge Detector](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/canny2.jpg)](#features)
