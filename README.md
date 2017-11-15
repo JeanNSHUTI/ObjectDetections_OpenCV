@@ -81,8 +81,9 @@ You should find an original image of yourself and the canny-edge version:
 
 #### Ball_tracking.py and plot_canny.py
 
-These are open source example that experimentwith edge detection and the sensitivity of the canny edge detector
+These are open source examples that experiment with edge detection and the sensitivity of the canny edge detector
 
-##References
+## References
+
 https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
 https://henrydangprg.com/2016/06/26/color-detection-in-python-with-opencv/
