@@ -60,7 +60,7 @@ python -m pip install imutils
 ### Running Tests
 #### Canny2.py
 
-In the command line, navigate to the folder containing your source code and run script.py as a first test:
+In the command line, navigate to the folder containing your source code and run Canny2.py as a first test:
 
 ``` 
 python script_name.python
