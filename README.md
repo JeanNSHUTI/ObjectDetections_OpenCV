@@ -68,5 +68,21 @@ python script_name.python
 
 You should find an original image of yourself and the canny-edge version:
 
+[![Canny Edge Detector](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/canny2.jpg)](#CannyEdgeDetector)
 
-[![Canny Edge Detector](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/canny2.jpg)](#features)
+#### Cannyjpg.py
+
+[![Object detection via image](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannyjpg1.jpg](#ObjectdetectionImage)
+
+#### Canny-colour.py
+
+[![Object detection via video](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannycolour.jpg](#ObjectdetectionVideo)
+[![Object detection via video](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannycolour1.jpg](#ObjectdetectionVideo)
+
+#### Ball_tracking.py and plot_canny.py
+
+These are open source example that experimentwith edge detection and the sensitivity of the canny edge detector
+
+##References
+https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+https://henrydangprg.com/2016/06/26/color-detection-in-python-with-opencv/
