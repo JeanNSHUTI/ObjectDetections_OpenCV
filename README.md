@@ -32,8 +32,13 @@ python –m pip install "python folder location + name_of_openCVfile.whl"
 
 ### Installing additional packages
 
-Run followinf commans to install numpy and matplotib:
+Run the following commands to install numpy and matplotib:
 
-```
-python -m pip install numpy
-```
+
+>python -m pip install numpy
+
+
+>python -m pip install matplotlib
+
+
+### Running Tests
