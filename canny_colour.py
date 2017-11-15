@@ -5,6 +5,7 @@
 #Press h to subtract hue -1, 'shift' + h to add hue +1
 #Press j to subtract hue -5, 'shift' + j to add hue +5
 #Press w to subtract width -2, 'shift' + w to add width +2
+#Last modified by Jean-Rene Nshuti
 
 import numpy as np
 import cv2
@@ -13,7 +14,7 @@ caps = [cv2.VideoCapture(0)]
 i = 0
 
 # define the HSV boundaries 
-rangelower = np.array([0, 60, 50], dtype=np.uint8) #Limit the amount of grey(@param2) and luminosity (@param3) permissible 
+rangelower = np.array([0, 60, 40], dtype=np.uint8) #Limit the amount of grey(@param2) and luminosity (@param3) permissible 
 rangeupper = np.array([255, 255, 255], dtype=np.uint8)
 
 hue = 128

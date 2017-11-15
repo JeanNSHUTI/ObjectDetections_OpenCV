@@ -27,7 +27,7 @@ im = np.zeros((128, 128))
 im[32:-32, 32:-32] = 1
 
 im = ndi.rotate(im, 15, mode='constant')
-im = ndi.gaussian_filter(im, 4)
+im = ndi.gaussian_filter(im, 4)   #Apply noise filter to image
 im += 0.2 * np.random.random(im.shape)
 
 # Compute the Canny filter for two values of sigma

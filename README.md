@@ -21,7 +21,7 @@ https://docs.opencv.org/3.1.0/da/d22/tutorial_py_canny.html
 
 ### Installing OpenCV
 
-1.	Go here and find the OpenCV installation package (.whl) that suits your PC and python version best.
+1.	Go here (https://www.lfd.uci.edu/~gohlke/pythonlibs/) and find the OpenCV installation package (.whl) that suits your PC and python version best.
 	With python 3.6 installed and a x86 machine I chose the package "opencv_python-3.3.1-cp36-cp36m-win32.whl"
 2.	Place this file into the source file where your python version is installed. (
 	eg C:\Users\Dell\AppData\Local\Programs\Python\Python36-32)
@@ -39,13 +39,31 @@ Run the following commands to install numpy and matplotib:
 python -m pip install numpy
 ```
 
+*Python version 3.6 -> "python" does not not work, use "py"
+
 ```
-python -m pip install matplotlib
+python -m pip install matplotlib  #plotting library based on NumPy.
+```
+
+```
+python -m pip install scipy  #SciPy is a scientific Python library, which supplements and slightly overlaps NumPy 
+```
+
+```
+python -m pip install scikit-image  #provides image processing routines for SciPy. Follow steps 1 - 3 for easy installation 
+```
+
+```
+python -m pip install imutils
 ```
 
 ### Running Tests
-#### script.py
+#### Canny2.py
 
 In the command line, navigate to the folder containing your source code and run script.py as a first test:
 
 ``` 
+python script_name.python
+```
+
+You should find an original image of yourself and the canny-edge version:

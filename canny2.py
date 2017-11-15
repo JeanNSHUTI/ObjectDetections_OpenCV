@@ -1,3 +1,5 @@
+#Written by Professor F.Geuning (ECAM)for Image treatment class
+
 import numpy as np
 import cv2
 # init all available cameras

@@ -1,3 +1,5 @@
+#Written by Professor F.Geuning (ECAM)for Image treatment class
+
 import cv2, numpy as np
 rangelower = np.array([0, 100, 40], dtype=np.uint8)
 rangeupper = np.array([255, 255, 255], dtype=np.uint8)
