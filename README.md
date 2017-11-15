@@ -72,12 +72,12 @@ You should find an original image of yourself and the canny-edge version:
 
 #### Cannyjpg.py
 
-[![Object detection via image](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannyjpg1.jpg](#ObjectdetectionImage)
+[![Object detection via image](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannyjpg1.jpg)](#ObjectdetectionImage)
 
 #### Canny-colour.py
 
-[![Object detection via video](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannycolour.jpg](#ObjectdetectionVideo)
-[![Object detection via video](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannycolour1.jpg](#ObjectdetectionVideo)
+[![Object detection via video](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannycolour.jpg)](#ObjectdetectionVideo)
+[![Object detection via video](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannycolour1.jpg)](#ObjectdetectionVideo)
 
 #### Ball_tracking.py and plot_canny.py
 
