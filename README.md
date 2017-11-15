@@ -13,6 +13,12 @@ This guide assumes that you already have python installed and working on your co
 https://www.python.org/downloads/
 ```
 
+More information on the Canny Edge Detector:
+
+```
+https://docs.opencv.org/3.1.0/da/d22/tutorial_py_canny.html
+```
+
 ### Installing OpenCV
 
 1.	Go here and find the OpenCV installation package (.whl) that suits your PC and python version best.
@@ -25,3 +31,9 @@ python –m pip install "python folder location + name_of_openCVfile.whl"
 ```
 
 ### Installing additional packages
+
+Run followinf commans to install numpy and matplotib:
+
+```
+python -m pip install numpy
+```
