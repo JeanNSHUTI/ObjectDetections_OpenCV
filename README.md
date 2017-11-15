@@ -86,4 +86,5 @@ These are open source examples that experiment with edge detection and the sensi
 ## References
 
 https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+
 https://henrydangprg.com/2016/06/26/color-detection-in-python-with-opencv/
