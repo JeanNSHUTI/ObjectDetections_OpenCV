@@ -72,6 +72,12 @@ You should find an original image of yourself and the canny-edge version:
 
 #### Cannyjpg.py
 
+Cannyjpg allows us to isolate objects from any image.jpg on the basis of their individual colours. There are two modifiable parameters,
+hue (key: h and j) and width (key: w). The parameter hue (with the boundaries for (s) saturation and (v) value fixed in source code)
+can be seen as a cursor that displaces through out the hsv colour diagram and width as the bandwidth of that cursor. 
+This means that by selecting a narrow bandwidth, we can limit and therefore choose to only show colours that find themselves at the same 
+position as our cursor and within the specified bandwidth. Below is an example of me isolating all blue-ish objects in the eurobot2018_playingarea.jpg
+
 [![Object detection via image](https://github.com/JeanNSHUTI/ObjectDetections_OpenCV/blob/master/cannyjpg1.jpg)](#ObjectdetectionImage)
 
 #### Canny-colour.py
